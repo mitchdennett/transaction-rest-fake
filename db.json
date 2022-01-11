@@ -4,7 +4,15 @@
       "id": 1,
       "date": "2021-02-27",
       "description": "LAROSA'S RAPID RUN 513-451-1273, OH, US",
-      "amount": 102344
+      "amount": 102344,
+      "category": "Restaurants"
+    },
+    {
+      "id": 2,
+      "date": "2021-02-28",
+      "description": "TARGET DEBIT CRD ACH TRAN TARGET -2488 CINCINNATI OH 000624813112488",
+      "amount": 8184,
+      "category": null
     }
   ]
 }
