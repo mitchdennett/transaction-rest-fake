@@ -16,7 +16,9 @@
     }
   ],
   "budgets": [
-    "id": "jan-2022",
-    "categories": []
+    {
+      "id": "jan-2022",
+      "categories": []
+    }
   ]
 }
