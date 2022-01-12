@@ -18,7 +18,14 @@
   "budgets": [
     {
       "id": "jan-2022",
-      "categories": []
+      "categories": [
+        {
+          "id": 1,
+          "description": "Restaurants",
+          "budget": 23000,
+          "amount": 1000
+        }
+      ]
     }
   ]
 }
