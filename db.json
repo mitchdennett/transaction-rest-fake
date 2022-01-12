@@ -14,5 +14,9 @@
       "amount": 8184,
       "category": null
     }
+  ],
+  "budgets": [
+    "id": "jan-2022",
+    "categories":[],
   ]
 }
