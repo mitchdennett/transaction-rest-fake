@@ -26,6 +26,17 @@
           "amount": 1000
         }
       ]
+    },
+    {
+      "id": "dec-2021",
+      "categories": [
+        {
+          "id": 1,
+          "description": "Groceries",
+          "budget": 23000,
+          "amount": 1000
+        }
+      ]
     }
   ]
 }
